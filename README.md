@@ -360,6 +360,8 @@ If you have any questions, suggestions, or encounter issues, please feel free to
 
 **⭐ Star this repo if you find it helpful!**
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/mchcozar/nestjs-cats)
+
 Made with ❤️ by [mchcozar](https://github.com/mchcozar)
 
 </div>
